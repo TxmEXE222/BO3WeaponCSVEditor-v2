@@ -21,6 +21,10 @@ Made by TxmEXE222.
 - Open starts in your BO3 usermaps folder, found through the mod tools
 - usermaps dropdown lists every map and opens its weapons CSV in one click
 
+![alt text](Editor_tab.png)
+![alt text](Spreadsheet_tab.png)
+![alt text](Preview_tab.png)
+
 ## Keybinds
 
 | Keys | Action |
